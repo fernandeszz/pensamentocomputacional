@@ -36,7 +36,7 @@ body{
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient( blueviolet, blueviolet);
+    background-image: linear-gradient( rgb(158, 99, 212), blueviolet);
     color:white;
     display: flex;
     justify-content: center;
